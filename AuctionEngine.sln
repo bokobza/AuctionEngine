@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BidTracker.Tests", "BidTracker.Tests\BidTracker.Tests.csproj", "{95B37A9D-2BB4-4C35-B845-47C2615D24DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BidTracker", "BidTracker\BidTracker.csproj", "{A7F20544-17E4-4A2D-A6A2-90013C5DA5F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B37A9D-2BB4-4C35-B845-47C2615D24DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B37A9D-2BB4-4C35-B845-47C2615D24DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B37A9D-2BB4-4C35-B845-47C2615D24DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B37A9D-2BB4-4C35-B845-47C2615D24DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F20544-17E4-4A2D-A6A2-90013C5DA5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F20544-17E4-4A2D-A6A2-90013C5DA5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F20544-17E4-4A2D-A6A2-90013C5DA5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F20544-17E4-4A2D-A6A2-90013C5DA5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6899E8A1-711A-48DC-A5C7-C5E5A778129B}
+	EndGlobalSection
+EndGlobal
